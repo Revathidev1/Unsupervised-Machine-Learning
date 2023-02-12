@@ -1,6 +1,6 @@
 # Unsupervised-Machine-Learning
 # Clustering songs for playlists
-________________________________________
+
 Pretty straightforward approach towards this whole topic, since there was a ton to learn and read about.
 •	Euclidean vs Manhattan distances
 •	An introduction into the Sklearn module
